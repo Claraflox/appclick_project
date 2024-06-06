@@ -1,0 +1,24 @@
+{
+"name":"AppClick ICT Academy",
+"short_name": "Appclickacademy",
+"icons": [{
+        "src": "assets/img/appclick-technology-best-software-center.png",
+        "sizes": "64x64",
+        "type": "image/png",
+         "purpose": "any"
+      }, {
+        "src": "assets/img/appclick-technology-best-software-center.png",
+        "sizes": "64x64",
+        "type": "image/png",
+      "purpose": "maskable"
+      }, {
+        "src": "assets/img/appclick-technology-best-software-center.png",
+        "sizes": "512x512",
+        "type": "image/png",
+      "purpose": "maskable"
+      }],
+"background_color":"white",
+"theme_color" : "white",
+"display": "fullscreen",
+ "orientation": "landscape"
+}
